@@ -1,5 +1,7 @@
 # This repo was generated to showcase a very funky bug
 
+Seems to be solved, see [here](https://github.com/tracel-ai/cubecl/issues/1375) 
+
 ## Problem statement
 
 For reproduction and easier solving of a bug in cubecl `"0.10.0"` in interaction
